@@ -1,0 +1,2 @@
+﻿Esta página es una página de prueba sin publicar oficialmente. Tengan la libertad de modificarlo y commitearlo a su gusto.
+Esta página está libre de copyright, así que no pasará nada si lo toman como ejemplo para algún ejercicio, o si desean bajarlo a su disco.
